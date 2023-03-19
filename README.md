@@ -1,3 +1,11 @@
+# Slight Mods
+
+Making an artcrimebot
+
+- `ingest.sh` points to the Trafficking Culture website
+- `ingest.py` uses the directoryLoader to process the results into a vector store.
+- takes about 10 minutes to scrape everything, process.
+
 # 🦜️🔗 ChatLangChain
 
 This repo is an implementation of a locally hosted chatbot specifically focused on question answering over the [LangChain documentation](https://langchain.readthedocs.io/en/latest/).
